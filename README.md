@@ -1,9 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=FB9DA7&height=300&section=header&text=Hyeon%20Ji&fontSize=90&fontcolor="gray"&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+<p align='center'>
+  <a href="https://github.com/hyeonji7557/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
+
 <div align="center">
-
-<span style="display:block;text-align:center">![slice](https://capsule-render.vercel.app/api?type=slice&color=ffd700&height=200&text=HYEONJI&fontAlign=70&rotate=13&fontAlignY=25&desc=hyeonji%20lee's%20git%20profile.&descAlign=70.&descAlignY=44)</span>
-
-<center> 
-</center>
 
 <span style="display:block;text-align:center"> 😄 My Portfolio [Notion](https://www.notion.so/Hyeonji-Lee-b93a01e137674823ba8d67745262d9f3)</span>
 
@@ -19,13 +24,12 @@
 
 <span style="display:block;text-align:center; color:white">☀ **GitHub Stats** ☀</span>
 
-<span style="display:block;text-align:center">![hyeonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonji7557&theme=gotham&show_icons=true)</span>
+<span style="display:block;text-align:center">![hyeonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonji&theme=dracula&show_icons=true)</span>
 
 <br>
 
 <span style="display:block;text-align:center; color:white">☀ **Most Used** ☀</span>
 
-<span style="display:block;text-align:center; color:white">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji7557&layout=compact&theme=gotham)</span>
+<span style="display:block;text-align:center; color:white">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonji7557&layout=compact&theme=dracula)</span>
 
 </div>
-
