@@ -16,7 +16,7 @@
 
 <span style="display:block;text-align:center; color:white">☀ **GitHub Stats** ☀</span>
 
-<span style="display:block;text-align:center">![hyeonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonji&theme=dracula&show_icons=true)</span>
+<span style="display:block;text-align:center">![hyeonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonji7557&theme=dracula&show_icons=true)</span>
 
 <br>
 
