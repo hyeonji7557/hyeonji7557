@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<span style="display:block;text-align:center"> 😄 My Portfolio [Notion](https://www.notion.so/Hyeonji-Lee-b93a01e137674823ba8d67745262d9f3)</span>
+<span style="display:block;text-align:center"> 😄 My Portfolio [Notion]()</span>
 
 <span style="display:block;text-align:center">  📫 How to reach me: hyeunji7557@naver.com</span>
 
